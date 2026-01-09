@@ -1,7 +1,7 @@
 # Kuko AI 🎙️💻
 
 > **Version:** kukoai_a1.0  
-> **Release Date:** January 2026
+> **Release Date:** January 09, 2026
 
 ## 📖 About
 **Kuko AI** is a voice-activated AI agent designed to perform general computer operations, such as opening and managing files, entirely through voice commands. 
