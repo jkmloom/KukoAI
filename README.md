@@ -1,7 +1,7 @@
 # Kuko AI 🎙️💻
 
 > **Version:** kukoai_a1.0  
-> **Release Date:** January 2026
+> **Release Date:** January 09, 2026
 
 ## 📖 About
 **Kuko AI** is a voice-activated AI agent designed to perform general computer operations, such as opening and managing files, entirely through voice commands. 
@@ -10,6 +10,7 @@ This project was developed by a group of Computer Science students at **ABSS Ins
 
 ## 🛠️ Tech Stack
 * **Language:** Python (v3.10.11)
+* **Speech Engine:** Google Speech Recognition (via `speech_recognition`)
 * **Core Libraries:**
     * `speech_recognition` (Voice input processing)
     * `win32com.client` (Windows OS interaction)
@@ -41,3 +42,7 @@ This project is currently in **Alpha (a1.0)**. We are aware of the following lim
 
 ## 👥 Credits
 Developed by CS Students at **ABSS Institute of Technology, Meerut** (Jan 2026).
+
+* **Jatin Kumar Mehta** (Python Developer) - [GitHub Profile](https://github.com/jkmloom)
+* **Aryan Shakya** (Python Developer) - [GitHub Profile](https://github.com/shakyaryan)
+* **Abhishek Charak** (Web Developer) - [GitHub Profile](https://github.com/abicharak)
