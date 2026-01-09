@@ -28,7 +28,7 @@ This project was developed by a group of Computer Science students at **ABSS Ins
 ## 📥 Installation / Usage
 You can run the source code directly or download the standalone executable for Windows.
 
-* **[Download .exe for Windows](INSERT_YOUR_LINK_HERE)**
+* **[Download .exe for Windows](https://mega.nz/file/zZpnHKjI#-zhVnZxT9bk0P0jWSKpi75cGq3pFxFBuKvkH7EW7ZPU)**
 
 ## 🚧 Known Issues & Roadmap
 This project is currently in **Alpha (a1.0)**. We are aware of the following limitations and actively looking for contributions or solutions:
