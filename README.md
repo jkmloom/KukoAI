@@ -40,4 +40,7 @@ This project is currently in **Alpha (a1.0)**. We are aware of the following lim
 6.  **Context Awareness:** Kuko AI currently has no short-term or long-term memory management (no context retention between commands).
 
 ## 👥 Credits
-Developed by CS Students at **ABSS Institute of Technology, Meerut** (Jan 2026).
+Developed by CS Students at **ABSS Institute of Technology, Meerut** (Jan 2026).  
+1. Jatin Kumar Mehta (Python Developer)
+2. Aryan Shakya (Python Developer)
+3. Abhishek Charak (Web Developer)
