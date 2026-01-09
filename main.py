@@ -30,7 +30,7 @@ if __name__ == '__main__':
     while True:
         print("Listening...")
         query = take_command()
-        sites = [["youtube", "https://www.youtube.com"], ["wikipedia", "https://en.wikipedia.org"], ["github", "https://github.com/jkmloom"]]
+        sites = [["youtube", "https://www.youtube.com"], ["wikipedia", "https://en.wikipedia.org"], ["github", "https://github.com/jkmloom/KukoAI"]]
         for site in sites:
             if f"Open {site[0]}".lower() in query.lower():
                 say(f"Opening {site[0]}")
