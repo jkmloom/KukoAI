@@ -1,3 +1,5 @@
+⚠️ Discontinued Project
+---
 # Kuko AI 🎙️💻
 
 > **Version:** kukoai_a1.0  
